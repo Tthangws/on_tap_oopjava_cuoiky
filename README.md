@@ -16,7 +16,7 @@ Trong thư mục `src`, các bài tập được cấu trúc nhằm củng cố 
 *   [x] **Xử lý ngoại lệ (Exception Handling):** Sử dụng khối `try-catch-finally` và tự định nghĩa các lỗi nghiệp vụ riêng bằng **Custom Exception** (ví dụ: `HetSachException`).
 *   [x] **Cấu trúc dữ liệu động:** Ứng dụng `ArrayList` để xây dựng các hàm Thêm, Xóa, Tìm kiếm phần tử một cách linh hoạt.
 
-## 📂 Cấu trúc thư mục dự án
+## 📂 Cấu trúc thư mục dự án ( mẫu )
 ```text
 on_tap_oopjava_cuoiky/
 ├── .idea/                 # File cấu hình môi trường của phần mềm IntelliJ
