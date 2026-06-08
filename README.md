@@ -14,7 +14,7 @@ Trong thư mục `src`, các bài tập được cấu trúc nhằm củng cố 
 *   [x] **Tính Đóng Gói (Encapsulation):** Sử dụng các hàm `Getter/Setter` để kiểm soát và bảo vệ tính đúng đắn của dữ liệu đầu vào.
 *   [x] **Tính Kế Thừa (Inheritance):** Kế thừa từ lớp thông thường và lớp trừu tượng bằng từ khóa `extends`.
 *   [x] **Xử lý ngoại lệ (Exception Handling):** Sử dụng khối `try-catch-finally` và tự định nghĩa các lỗi nghiệp vụ riêng bằng **Custom Exception** (ví dụ: `HetSachException`).
-*   [x] **Cấu trúc dữ liệu động:** Ứng dụng `ArrayList` để xây dựng các hàm Thêm, Xóa, Tìm kiếm phần tử một cách linh hoạt.
+*   [x] **Cấu trúc dữ liệu động:** Ứng dụng `ArrayList,HashMap` để xây dựng các hàm Thêm, Xóa, Tìm kiếm phần tử một cách linh hoạt.
 
 ## 📂 Cấu trúc thư mục dự án ( mẫu )
 ```text
